@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="info_dino_icon">Ikon Dino</string>
+    <string name="info_dino_name">Nama Dino</string>
+    <string name="info_dino_desc">Deskripsi</string>
+    <string name="info_dino_characteristic">Karakteristik</string>
+    <string name="info_dino_group">Kelompok</string>
+    <string name="info_dino_habitat">Habitat</string>
+    <string name="info_dino_food">Makanan</string>
+    <string name="info_dino_length">Panjang</string>
+    <string name="info_dino_height">Tinggi</string>
+    <string name="info_dino_weight">Bobot</string>
+    <string-array name="dinos_name">
+        <item>Tyrannosaurus rex</item>
+        <item>Allosaurus</item>
+        <item>Brachiosaurus</item>
+        <item>Diplodocus</item>
+        <item>Ankylosaurus</item>
+        <item>Stegosaurus</item>
+        <item>Styracosaurus</item>
+        <item>Triceratops</item>
+        <item>Parasaurolophus</item>
+        <item>Edmontosaurus</item>
+        <item>Kentrosaurus</item>
+        <item>Huayangosaurus</item>
+        <item>Daspletosaurus</item>
+        <item>Albertosaurus</item>
+        <item>Velociraptor</item>
+
+    </string-array>
+    <string-array name="dinos_icon">
+        <item>@drawable/tyrannosaurusrex</item>
+        <item>@drawable/allosaurus</item>
+        <item>@drawable/brachiosaurus</item>
+        <item>@drawable/diplodocus</item>
+        <item>@drawable/ankylosaurus</item>
+        <item>@drawable/stegosaurus</item>
+        <item>@drawable/styracosaurus</item>
+        <item>@drawable/triceratops</item>
+        <item>@drawable/parasaurolophus</item>
+        <item>@drawable/edmontosaurus</item>
+        <item>@drawable/kentrosaurus</item>
+        <item>@drawable/huayangosaurus</item>
+        <item>@drawable/daspletosaurus</item>
+        <item>@drawable/albertosaurus</item>
+        <item>@drawable/velociraptor</item>
+    </string-array>
+    <string-array name="dinos_description">
+ <item>Tyrannosaurus rex, atau T-rex, adalah dinosaurus karnivora yang hidup sekitar 68 hingga 66 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. T-rex adalah salah satu dinosaurus terbesar yang pernah ada, dengan panjang sekitar 12 meter dan tinggi sekitar 6 meter.</item>
+        <item>Allosaurus adalah dinosaurus karnivora yang hidup sekitar 155 hingga 150 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara, Eropa, dan Afrika. Allosaurus memiliki tubuh besar, kaki yang kuat, dan rahang yang dilengkapi dengan gigi-gigi tajam.</item>
+        <item>Brachiosaurus adalah dinosaurus herbivora yang hidup sekitar 154 hingga 153 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Brachiosaurus dikenal dengan leher panjangnya yang memungkinkannya mencapai dedaunan tinggi di pohon-pohon.</item>
+        <item>Diplodocus adalah dinosaurus herbivora yang hidup sekitar 154 hingga 152 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Diplodocus memiliki tubuh yang panjang dan leher yang fleksibel, serta ekor yang panjang dan ramping.</item>
+        <item>Ankylosaurus adalah dinosaurus herbivora yang hidup sekitar 68 hingga 66 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Ankylosaurus dikenal dengan tubuhnya yang dilindungi oleh pelat-pelat tulang dan memiliki alat pemukul di ujung ekornya.</item>
+        <item>Stegosaurus adalah dinosaurus herbivora yang hidup sekitar 155 hingga 150 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara dan Eropa. Stegosaurus memiliki punggung yang dilapisi oleh sejumlah besar lempengan tulang yang disebut osteoderma, serta sepasang tanduk di ujung ekornya.</item>
+        <item>Styracosaurus adalah dinosaurus herbivora yang hidup sekitar 75 hingga 70 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Styracosaurus dikenal dengan cula-cula tajam yang menonjol dari tengkoraknya, yang digunakan mungkin untuk pertahanan atau tampilan.</item>
+        <item>Triceratops adalah dinosaurus herbivora yang hidup sekitar 68 hingga 66 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Triceratops memiliki tiga tanduk di atas tengkoraknya dan frill yang besar di belakang kepalanya.</item>
+        <item>Parasaurolophus adalah dinosaurus herbivora yang hidup sekitar 76 hingga 73 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Parasaurolophus dikenal dengan crests yang panjang di atas kepalanya, yang digunakan mungkin untuk pengaturan suara.</item>
+        <item>Edmontosaurus adalah dinosaurus herbivora yang hidup sekitar 73 hingga 65 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Edmontosaurus memiliki tubuh yang besar dengan kepala yang mirip bebek.</item>
+        <item>Kentrosaurus adalah dinosaurus herbivora yang hidup sekitar 154 hingga 150 juta tahun yang lalu di wilayah yang sekarang menjadi Afrika. Kentrosaurus dikenal dengan duri-duri tajam di bagian punggungnya, yang digunakan mungkin untuk pertahanan.</item>
+        <item>Huayangosaurus adalah dinosaurus herbivora yang hidup sekitar 163 hingga 157 juta tahun yang lalu di wilayah yang sekarang menjadi Cina. Huayangosaurus memiliki tubuh yang dilindungi oleh deretan duri-duri dan tulang-tulang kecil.</item>
+        <item>Daspletosaurus adalah dinosaurus karnivora yang hidup sekitar 77 hingga 75 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Daspletosaurus merupakan kerabat dekat Tyrannosaurus rex dan memiliki rahang yang kuat dengan gigi-gigi yang tajam.</item>
+        <item>Albertosaurus adalah dinosaurus karnivora yang hidup sekitar 70 hingga 65 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara. Albertosaurus merupakan kerabat dekat Tyrannosaurus rex dan juga memiliki rahang yang kuat dengan gigi-gigi yang tajam.</item>
+        <item>Velociraptor adalah dinosaurus karnivora yang hidup sekitar 75 hingga 71 juta tahun yang lalu di wilayah yang sekarang menjadi Mongolia. Velociraptor dikenal dengan cakarnya yang tajam dan kemampuan berburu secara berkelompok.</item>
+
+    </string-array>
+    <string-array name="dinos_characteristic">
+ <item>Dinosaurus karnivora besar dengan rahang yang kuat, Memiliki tubuh yang besar dan berat, Merupakan predator puncak di ekosistemnya, Cenderung aktif mencari makanan dan berburu.</item>
+        <item>Dinosaurus karnivora besar dengan lengan depan yang kuat, Memiliki gigi-gigi yang tajam dan rahang yang bisa membuka lebar, Diperkirakan berburu secara aktif dan mungkin berburu secara berkelompok.</item>
+        <item>Dinosaurus herbivora dengan leher panjang yang memungkinkannya mencapai dedaunan tinggi, Memiliki tubuh besar dan berat dengan kaki depan yang lebih panjang dari kaki belakang, Diperkirakan hidup secara damai dan mungkin bergerombol dalam kelompok-kelompok kecil.</item>
+        <item>Dinosaurus herbivora dengan tubuh panjang dan ekor yang ramping, Memiliki leher yang fleksibel dan kepala kecil dengan gigi-gigi yang sederhana, Diperkirakan mengonsumsi dedaunan tinggi dari pohon-pohon.</item>
+        <item>Dinosaurus herbivora dengan tubuh yang dilindungi oleh pelat-pelat tulang, Memiliki alat pemukul di ujung ekornya yang digunakan mungkin untuk pertahanan, Cenderung memiliki perilaku bertahan diri daripada berburu.</item>
+        <item>Dinosaurus herbivora dengan punggung dilapisi oleh lempengan-lempengan tulang, Memiliki sepasang tanduk di ujung ekornya yang mungkin digunakan untuk pertahanan atau tampilan, Diperkirakan memiliki otak kecil dan mungkin mengandalkan strategi pertahanan daripada kecepatan untuk bertahan dari predator.</item>
+        <item>Dinosaurus herbivora dengan cula-cula tajam yang menonjol dari tengkoraknya, Cenderung hidup di daerah yang bersemak atau hutan-hutan, Diperkirakan menggunakan cula-cula untuk pertahanan atau mungkin dalam ritual perangkap.</item>
+        <item>Dinosaurus herbivora dengan tiga tanduk di atas tengkoraknya, Memiliki frill yang besar di belakang kepalanya yang mungkin digunakan untuk pertahanan atau tampilan, Diperkirakan hidup secara damai dan menghabiskan sebagian besar waktunya mencari makanan.</item>
+        <item>Dinosaurus herbivora dengan crests panjang di atas kepalanya, Diperkirakan crests digunakan untuk pengaturan suara atau mungkin sebagai alat komunikasi antar anggota spesies.</item>
+        <item>Dinosaurus herbivora dengan tubuh besar dan kepala yang mirip bebek, Mungkin menghabiskan sebagian besar waktunya mencari makanan di daerah rawa-rawa atau lahan basah.</item>
+        <item>Dinosaurus herbivora dengan duri-duri tajam di bagian punggungnya, Mungkin digunakan untuk pertahanan terhadap predator atau dalam pertarungan antar individu.</item>
+        <item>Dinosaurus herbivora dengan tubuh yang dilindungi oleh deretan duri-duri dan tulang-tulang kecil, Diperkirakan hidup di daerah bersemak atau hutan yang kering.</item>
+        <item>Dinosaurus karnivora besar dengan gigi-gigi tajam dan rahang yang kuat, Diperkirakan berburu secara aktif dan mungkin berburu dalam kelompok kecil.</item>
+        <item>Dinosaurus karnivora dengan rahang yang kuat dan gigi-gigi yang tajam, Diperkirakan berburu secara aktif dan mungkin mengincar mangsa yang lebih besar dari ukurannya.</item>
+        <item>Dinosaurus karnivora yang kecil dan lincah, Memiliki cakar-cakar yang tajam di kaki depannya yang digunakan untuk merobek daging mangsanya, Diperkirakan berburu secara berkelompok dan menggunakan strategi penyer</item>
+    </string-array>
+    <string-array name="dinos_group">
+ <item>Tyrannosauridae</item>
+        <item>Allosauridae</item>
+        <item>Sauropodomorpha</item>
+        <item>Sauropodomorpha</item>
+        <item>Ornithischia</item>
+        <item>Stegosauridae</item>
+        <item>Ceratopsidae</item>
+        <item>Ceratopsidae</item>
+        <item>Hadrosauridae</item>
+        <item>Hadrosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Tyrannosauridae</item>
+        <item>Tyrannosauridae</item>
+        <item>Velociraptoridae</item>
+    </string-array>
+
+    <string-array name="dinos_habitat">
+        <item>Darat, padang rumput, hutan</item>
+        <item>Darat, hutan, dataran tinggi</item>
+        <item>Darat, dataran tinggi, hutan</item>
+        <item>Darat, dataran tinggi, hutan</item>
+        <item>Darat, hutan, dataran rendah</item>
+        <item>Darat, hutan, dataran rendah</item>
+        <item>Darat, hutan, dataran rendah</item>
+        <item>Darat, hutan, dataran rendah</item>
+        <item>Darat, padang rumput, hutan</item>
+        <item>Darat, padang rumput, hutan</item>
+        <item>Darat, hutan, dataran rendah</item>
+        <item>Darat, hutan, dataran rendah</item>
+        <item>Darat, padang rumput, hutan</item>
+        <item>Darat, padang rumput, hutan</item>
+        <item>Darat, padang rumput, hutan</item>
+    </string-array>
+
+    <string-array name="dinos_food">
+        <item>Daging pemakan hewan lain, pemangsa karnivora</item>
+        <item>Daging pemakan hewan lain, pemangsa karnivora</item>
+        <item>Daun, pucuk, dan tumbuhan tinggi</item>
+        <item>Daun, pucuk, dan tumbuhan tinggi</item>
+        <item>Daun, tanaman rendah, mungkin juga serangga</item>
+        <item>Daun, pucuk, dan tumbuhan tinggi</item>
+        <item>Daun, pucuk, dan tumbuhan tinggi</item>
+        <item>Daun, pucuk, dan tumbuhan tinggi</item>
+        <item>Daun, tumbuhan rendah, dan pucuk</item>
+        <item>Daun, pucuk, dan tumbuhan tinggi</item>
+        <item>Daun, tanaman rendah, mungkin juga serangga</item>
+        <item>Daun, tanaman rendah, mungkin juga serangga</item>
+        <item>Daging pemakan hewan lain, pemangsa karnivora</item>
+        <item>Daging pemakan hewan lain, pemangsa karnivora</item>
+        <item>Daging pemakan hewan lain, pemangsa karnivora</item>
+    </string-array>
+
+    <string-array name="dinos_length">
+ <item>Apel Dikenali dengan daun-daun oval bergelombang,
+bunganya memiliki lima kelopak putih atau merah muda.</item>
+        <item>Avokad Memiliki daun hijau gelap dan hijau muda,
+serta bunga kecil dan hijau.</item>
+        <item>Pisang Daun-daun besar dan panjang yang tersusun
+dalam tumpukan yang disebut "jantung."</item>
+        <item>Kelapa Daun kelapa berbentuk pinnatifid dengan
+pangkal daun yang mengelilingi batang.</item>
+        <item>Jambu Biji Daun jambu biji bersifat meruncing dan
+bunganya berwarna putih atau merah.</item>
+        <item>Mangga Daun-daunnya panjang dan ramping dengan ujung
+yang meruncing, bunganya kecil dan berwarna-warni.</item>
+        <item>Melon Tanaman melon memiliki daun lobus dengan bunga
+kuning atau oranye.</item>
+        <item>Jeruk Daun-daunnya biasanya bergaris dan bunganya
+berwarna putih atau merah muda.</item>
+        <item>Nanas Daunnya panjang dan runcing, dan bunganya
+berwarna ungu atau merah muda.</item>
+        <item>Stroberi Tanaman stroberi memiliki daun bertangkai
+dengan bunga kecil berwarna putih.</item>
+    </string-array>
+
+    <string-array name="dinos_height">
+ <item>Apel Dikenali dengan daun-daun oval bergelombang,
+bunganya memiliki lima kelopak putih atau merah muda.</item>
+        <item>Avokad Memiliki daun hijau gelap dan hijau muda,
+serta bunga kecil dan hijau.</item>
+        <item>Pisang Daun-daun besar dan panjang yang tersusun
+dalam tumpukan yang disebut "jantung."</item>
+        <item>Kelapa Daun kelapa berbentuk pinnatifid dengan
+pangkal daun yang mengelilingi batang.</item>
+        <item>Jambu Biji Daun jambu biji bersifat meruncing dan
+bunganya berwarna putih atau merah.</item>
+        <item>Mangga Daun-daunnya panjang dan ramping dengan ujung
+yang meruncing, bunganya kecil dan berwarna-warni.</item>
+        <item>Melon Tanaman melon memiliki daun lobus dengan bunga
+kuning atau oranye.</item>
+        <item>Jeruk Daun-daunnya biasanya bergaris dan bunganya
+berwarna putih atau merah muda.</item>
+        <item>Nanas Daunnya panjang dan runcing, dan bunganya
+berwarna ungu atau merah muda.</item>
+        <item>Stroberi Tanaman stroberi memiliki daun bertangkai
+dengan bunga kecil berwarna putih.</item>
+    </string-array>
+
+    <string-array name="dinos_weight">
+ <item>Apel Dikenali dengan daun-daun oval bergelombang,
+bunganya memiliki lima kelopak putih atau merah muda.</item>
+        <item>Avokad Memiliki daun hijau gelap dan hijau muda,
+serta bunga kecil dan hijau.</item>
+        <item>Pisang Daun-daun besar dan panjang yang tersusun
+dalam tumpukan yang disebut "jantung."</item>
+        <item>Kelapa Daun kelapa berbentuk pinnatifid dengan
+pangkal daun yang mengelilingi batang.</item>
+        <item>Jambu Biji Daun jambu biji bersifat meruncing dan
+bunganya berwarna putih atau merah.</item>
+        <item>Mangga Daun-daunnya panjang dan ramping dengan ujung
+yang meruncing, bunganya kecil dan berwarna-warni.</item>
+        <item>Melon Tanaman melon memiliki daun lobus dengan bunga
+kuning atau oranye.</item>
+        <item>Jeruk Daun-daunnya biasanya bergaris dan bunganya
+berwarna putih atau merah muda.</item>
+        <item>Nanas Daunnya panjang dan runcing, dan bunganya
+berwarna ungu atau merah muda.</item>
+        <item>Stroberi Tanaman stroberi memiliki daun bertangkai
+dengan bunga kecil berwarna putih.</item>
+    </string-array>
+
+    <string-array name="dinos_weakness">
+ <item>Apel Dikenali dengan daun-daun oval bergelombang,
+bunganya memiliki lima kelopak putih atau merah muda.</item>
+        <item>Avokad Memiliki daun hijau gelap dan hijau muda,
+serta bunga kecil dan hijau.</item>
+        <item>Pisang Daun-daun besar dan panjang yang tersusun
+dalam tumpukan yang disebut "jantung."</item>
+        <item>Kelapa Daun kelapa berbentuk pinnatifid dengan
+pangkal daun yang mengelilingi batang.</item>
+        <item>Jambu Biji Daun jambu biji bersifat meruncing dan
+bunganya berwarna putih atau merah.</item>
+        <item>Mangga Daun-daunnya panjang dan ramping dengan ujung
+yang meruncing, bunganya kecil dan berwarna-warni.</item>
+        <item>Melon Tanaman melon memiliki daun lobus dengan bunga
+kuning atau oranye.</item>
+        <item>Jeruk Daun-daunnya biasanya bergaris dan bunganya
+berwarna putih atau merah muda.</item>
+        <item>Nanas Daunnya panjang dan runcing, dan bunganya
+berwarna ungu atau merah muda.</item>
+        <item>Stroberi Tanaman stroberi memiliki daun bertangkai
+dengan bunga kecil berwarna putih.</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ivDetailIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/tvDetailName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivDetailIcon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Name"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvDetailDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Description" />
+
+    <TextView
+        android:id="@+id/tvDetailCharacteristic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailDescription"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Characteristic" />
+
+    <TextView
+        android:id="@+id/tvDetailGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailCharacteristic"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Group" />
+
+    <TextView
+        android:id="@+id/tvDetailHabitat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailGroup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Habitat" />
+
+    <TextView
+        android:id="@+id/tvDetailFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailHabitat"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Food" />
+
+    <TextView
+        android:id="@+id/tvDetailLength"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailFood"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Length" />
+
+    <TextView
+        android:id="@+id/tvDetailHeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailLength"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Height" />
+
+    <TextView
+        android:id="@+id/tvDetailWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailHeight"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Weight" />
+
+    <TextView
+        android:id="@+id/tvDetailWeakness"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvDetailWeight"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Weakness" />
+
+</RelativeLayout>
