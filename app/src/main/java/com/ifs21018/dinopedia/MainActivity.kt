@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun showSelectedDino(dino: Dino) {
         val intent = Intent(this, MenuActivity::class.java)
-        intent.putExtra("selectedDino", dino.name) // Mengirimkan nama dinosaurus yang dipilih
+        intent.putExtra("selectedDio", dino.name) // Mengirimkan nama dinosaurus yang dipilih
         startActivity(intent)
     }
 
